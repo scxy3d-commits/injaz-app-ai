@@ -1,0 +1,13 @@
+    versionCode=1 minSdk=26 targetSdk=35
+    versionName=1.0.0
+    requested permissions:
+      android.permission.POST_NOTIFICATIONS
+      android.permission.RECEIVE_BOOT_COMPLETED
+      android.permission.USE_EXACT_ALARM
+      android.permission.VIBRATE
+    install permissions:
+      android.permission.RECEIVE_BOOT_COMPLETED: granted=true
+      android.permission.USE_EXACT_ALARM: granted=true
+      android.permission.VIBRATE: granted=true
+      runtime permissions:
+        android.permission.POST_NOTIFICATIONS: granted=true, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]

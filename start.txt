@@ -1,0 +1,7 @@
+Starting: Intent { cmp=com.injaz.app/.MainActivity }
+Status: ok
+LaunchState: COLD
+Activity: com.injaz.app/.MainActivity
+TotalTime: 2393
+WaitTime: 2424
+Complete
