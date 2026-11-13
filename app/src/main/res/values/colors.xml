@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand">#0F766E</color>
+    <color name="window_bg">#F6F7F9</color>
+    <color name="w_bg">#FFFFFF</color>
+    <color name="w_text">#0F172A</color>
+    <color name="w_muted">#475569</color>
+    <color name="w_accent">#0F766E</color>
+    <color name="w_track">#E2E8F0</color>
+    <color name="w_btn">#E6F4F1</color>
+    <color name="w_btn_text">#0B5F58</color>
+</resources>
